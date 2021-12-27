@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "examplemod:block/lucky_block_basic" }
+    "": { "model": "luckyblocks:block/lucky_block_basic" }
   }
 }
